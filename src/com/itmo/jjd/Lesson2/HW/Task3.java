@@ -4,7 +4,6 @@ package com.itmo.jjd.Lesson2.HW;
 
 public class Task3 {
     public static void main(String[] args) {
-
         int a = 0;
                 for(int i = 18; i >=0; i--)
         System.out.print(a+5*i+" ");
